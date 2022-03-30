@@ -1,6 +1,6 @@
 {
   "name": "@octodemo/hello-world-npm",
-  "version": "1.0.5",
+  "version": "0.0.1",
   "description": "A simple npm package to demonstrate GitHub Package Registry",
   "main": "index.js",
   "scripts": {
@@ -8,13 +8,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/octodemo/hello-world-npm.git"
+    "url": "git+https://github.com/arisacoba/hello-world-npm2.git"
   },
   "author": "Codertocat",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/octodemo/hello-world-npm/issues"
-  },
   "homepage": "https://github.com/octodemo/hello-world-npm#readme",
   "publishConfig": {
     "registry":"https://npm.pkg.github.com/"
