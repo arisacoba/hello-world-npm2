@@ -12,7 +12,7 @@
   },
   "author": "Codertocat",
   "license": "ISC",
-  "homepage": "https://github.com/octodemo/hello-world-npm#readme",
+  "homepage": "https://github.com/arisacoba/hello-world-npm2#readme",
   "publishConfig": {
     "registry":"https://npm.pkg.github.com/"
   }
